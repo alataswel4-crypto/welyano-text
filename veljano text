@@ -239,3 +239,348 @@ After dinner, he watches a movie with his sister. It is a comedy. They laugh a l
 At ten o'clock, he goes to bed. He reads a book for twenty minutes. Then he turns off the light. He closes his eyes. He thinks, "Tomorrow will be a better day
 
 
+
+text_1:
+  id: "heia"
+  veljano: "Heia"
+  translation: "Air"
+
+  veljano: |
+    Heia'll atmosfïra zemlï. Èjz'll ajnvïzzwa gazô, ïn lïi ïiz zwï baj lïi ïiz hwï. 
+    Ït pällwe kajn lïma baj heima. Ït'llwe vjëswo. Heia we atmosfïrwa presjürwo. 
+    Kajne heiï in vakjuumö baj kjosmö.
+    Heia mïxwe së ef 78.03% Nïtrogene, 20.99% Oxïgene, 0.94% Argone, 
+    0.03% Karbone Dijöxïde, 0.01% Ğïdrogëne, 0.00123% Neone, 
+    0.0004% Ğëlïume, 0.00005% Krïptone, 0.000006% Xëone.
+    Lojt päll nöd dè oxïgene dè heia für zwï. 
+    Ïn jalen plotï heiüdot ïblejğwe lögenwo oxïgenet baj reïblejğwe karbonet dijöxïdet heivo. 
+    Loij flojt baj lei tvèrïn aw päll nöd dè heia für zwï: ït'll öä-musswa für alliz.
+  english: |
+    Air means Earth's atmosphere. It is the clear gas we live in and breathe in. 
+    It has no color or smell. It has weight. Air creates atmosphere pressure. 
+    There is no air in the vacuum and cosmos.
+    Air is a mixture of 78.03% Nitrogen, 20.99% Oxygen, 0.94% Argon, 
+    0.03% Carbon Dioxide, 0.01% Hydrogen, 0.00123% Neon, 
+    0.0004% Helium, 0.00005% Krypton, 0.000006% Xenon.
+    Humans need the oxygen in the air to live. 
+    In the human body, the lungs give oxygen to the blood, and give back carbon dioxide to the air. 
+    Plants and animals also need air to live: it is very important to everyone.
+  notes:
+    - "Loij = definite article (the)"
+    - "Lojt = people"
+    - "'ll = to be"
+{
+  "text_1": {
+    "id": "heia",
+    "veljano": "Heia",
+    "translation": "Air",
+    "veljano_text": "Heia'll atmosfïra zemlï. Èjz'll ajnvïzzwa gazô, ïn lïi ïiz zwï baj lïi ïiz hwï. Ït pällwe kajn lïma baj heima. Ït'llwe vjëswo. Heia we atmosfïrwa presjürwo. Kajne heiï in vakjuumö baj kjosmö. Heia mïxwe së ef 78.03% Nïtrogene, 20.99% Oxïgene, 0.94% Argone, 0.03% Karbone Dijöxïde, 0.01% Ğïdrogëne, 0.00123% Neone, 0.0004% Ğëlïume, 0.00005% Krïptone, 0.000006% Xëone. Lojt päll nöd dè oxïgene dè heia für zwï. Ïn jalen plotï heiüdot ïblejğwe lögenwo oxïgenet baj reïblejğwe karbonet dijöxïdet heivo. Loij flojt baj lei tvèrïn aw päll nöd dè heia für zwï: ït'll öä-musswa für alliz.",
+    "english_text": "Air means Earth's atmosphere. It is the clear gas we live in and breathe in. It has no color or smell. It has weight. Air creates atmosphere pressure. There is no air in the vacuum and cosmos. Air is a mixture of 78.03% Nitrogen, 20.99% Oxygen, 0.94% Argon, 0.03% Carbon Dioxide, 0.01% Hydrogen, 0.00123% Neon, 0.0004% Helium, 0.00005% Krypton, 0.000006% Xenon. Humans need the oxygen in the air to live. In the human body, the lungs give oxygen to the blood, and give back carbon dioxide to the air. Plants and animals also need air to live: it is very important to everyone.",
+    "notes": [
+      "Loij = definite article (the)",
+      "Lojt = people",
+      "'ll = to be"
+    ]
+  }
+}
+
+text_2:
+  id: "maliwa_matyna"
+  veljano_title: "Lïi maliwa matyna"
+  english_title: "A Small Morning"
+
+  veljano: |
+    Anna gëauzonwe së a zejsö. Ïn zïmö ŝyi. Ŝï ajmajdwe gëstojwe, abön ŝï musswe gwo zum arbajtö.
+    Ŝï ĉajwe baj jesswe së brodwo kèjzot. Sïma kajtïica zejswe en lïi stujlö baj żenojwe ŝwï. 
+    «Tü gëluïmwuzë "tajmwe Anna loij kajtïicar" tü ajnpälwu nöd dè arbajtwo».
+    Kajtïica ajnretajnwe. Ŝï naet gëojwe s'auz.
+    Anna gëpalitove së baj gëbwo lïi bejkwo. Ŝï dürwe nai. Drausp halidwa baj grejwa. 
+    Ŝï ahwe baj gwe zum lä busŝtojpö.
+    Bïsswemwa ŝï ojwe adiü bussojö. Lojt gwes, on äwlojantwezë baj ŝtajdo gëauzojnwezë. 
+    «Djanke luïnwajü tunô» djankwe ŝï.
+
+  english: |
+    Anna wakes up at six. The room is quiet. She does not want to get up, but she has to go to work.
+    She makes tea and eats bread with cheese. Her cat sits on the chair and watches her.
+    "You are lucky," Anna says to the cat. "You do not have to work."
+    The cat does not answer. It just closes its eyes.
+    Anna puts on her coat and takes her bag. She opens the door. Outside, it is cold and gray. 
+    She sighs and walks to the bus stop.
+    On the bus, she looks out of the window. People are walking, cars are moving, and the city is waking up.
+    "Maybe today will be a good day," she thinks.
+
+  grammar_examples:
+    - veljano: "Ï adiüżenwï"
+      russian: "Я перехожу дорогу"
+    - veljano: "Ï adiüżemwïs"
+      russian: "Я перешёл дорогу"
+    - veljano: "Ï vïzzwïns ajnhörläplyklantwï"
+      russian: "Я увидел глухонемого"
+    - veljano: "ajnhörläplyklanto"
+      russian: "Глухонемой"
+    - veljano: "Ï zejswï ön stujlö"
+      russian: "Я сижу на стуле"
+    - veljano: "Ï gë zejswï öm stujlöj"
+      russian: "Я сажусь на стул"
+    - veljano: "Tü vïzzwu stujlïnwï"
+      russian: "Ты видишь стул"
+    - veljano: "Ï adiüżemwïs da"
+      russian: "Я перешёл дорогу (давно)"
+    - veljano: "Kjanwu tü veljanwïl?"
+      russian: "Ты умеешь говорить по-вэльянски?"
+    - veljano: "adiüżenwo"
+      russian: "Переходить дорогу"
+    - veljano: "Ejz'll lui vïzzoppa"
+      russian: "Рад встрече (дословно: это хорошая встреча)"
+    - veljano: "Ï twon da cum magazöj"
+      russian: "Я шёл в магазин (давно)"
+    - veljano: "Ejs'll ejz län?"
+      russian: "Что это такое?"
+    - veljano: "Ja, ejz luiïnwajü"
+      russian: "Да, это будет хорошо"
+    - veljano: "Ejs'lljü län?"
+      russian: "Что это будет?"
+    - veljano: "Ï gertwï je m"
+      russian: "Я наверное сейчас поворачиваю"
+    - veljano: "Ïj by kjam"
+      russian: "Я бы мог"
+    - veljano: "Ï'llwï ïn cugö"
+      russian: "Я в поезде"
+    - veljano: "föŝtejwu, ïj lecwïns ejt tejxtwo, ejswo hajdet adiülecwo"
+      russian: "Понимаешь, я написал такой текст, что трудно его перевести"
+    - veljano: "dürwe së nai ïrïm tüj"
+      russian: "Дверь открывается на себя"
+    - veljano: "dürwe së nai ïrïs tüj"
+      russian: "Дверь открывается от себя"
+    - veljano: "wajüm töjnmïdiüvïzzwöjzwï"
+      russian: "Потому что ты не следил за этим"
+    - veljano: "na praplyklantoppa"
+      russian: "По правде говоря"
+    - veljano: "a pravï"
+      russian: "По правде"
+    - veljano: "Ï'llwïjü veljanwïl"
+      russian: "Я хочу говорить по-вэльянски"
+    - veljano: "djevlïhi on jod"
+      russian: "20:08"
+    - veljano: "zïivzs o fjati"
+      russian: "07:05"
+    - veljano: "Ïj dürwïns auz"
+      russian: "Я закрыл дверь на замок"
+    - veljano: "Na so, mït vordtod"
+      russian: "Да так, к слову"
+    - veljano: "Ïj kojlïnwï lejcwo kojlencot"
+      russian: "Я обвожу чертёж циркулем"
+    - veljano: "Ï vajzwï vordïlwï"
+      russian: "Я знаю словарь (совр.)"
+    - veljano: "Ï vajzwï vordátwï"
+      russian: "Я знаю словарь (устар.)"
+    - veljano: "djomönwï"
+      russian: "Я в доме"
+    - veljano: "Ejswo kjanwï helfïnwol?"
+      russian: "Чем я могу помочь?"
+    - veljano: "Ejs? Kjanwu tü veljanwïl pravï grammatïket?"
+      russian: "Ты умеешь говорить по-вэльянски с правильной грамматикой?"
+    - veljano: "kjanwï veljanwïl lälät"
+      russian: "Я умею говорить по-вэльянски немного"
+    - veljano: "Najwuj?"
+      russian: "Ну и где?"
+    - veljano: "Adiülec am russöj"
+      russian: "Переведи на русский"
+    - veljano: "Ejs kjanwï dajwol für Vür?"
+      russian: "Что могу сделать для вас?"
+    - veljano: "Ï vajzwï gramatïkwï"
+      russian: "Я знаю грамматику"
+    - veljano: "Ï'llwïjü veljanwïl mït tüd"
+      russian: "Я бы хотел говорить на вэльянском с тобой"
+    - veljano: "Kjanwu nuj veljanwïl?"
+      russian: "Умеешь ли ты говорить только на вэльянском?"
+    - veljano: "tü mwa dü žyhavïnwo"
+      russian: "Ты можешь пылесос"
+    - veljano: "lojet äwlojèntwet së"
+      russian: "Люди едут на машинах"
+    - veljano: "Ïj lëmwï ejzwo"
+      russian: "я черчу (линейкой) это"
+
+  poetry_fragment:
+    veljano: |
+      Havo an trasö vahwe së haswa ykt — Пыль на дороге пахла нагретым камнем
+      Havo an trasö ja gëhasswans aus. Čïiu gëhörwens aus. Hï ïnstwens djomöj's baj gëojwens önvahwï. 
+      Vaho wïlln oet, ejt ermot de hanï. Daždi ajngëjavïnwejü. 
+      Baj jen hï gëvföštejwens, ejs lä vaho vahwezë awajswa jügjolit, abön ejz'lln vahwoppa de hïm ermot
+    russian: |
+      Пыль на дороге уже остыла. Птица замолкла. Он вышел из дома и посмотрел на небо. 
+      Небо было пустым, как его руки. Дождь не вернётся. 
+      И тогда он понял, что воздух пахнет мокрой землёй, но это был запах его собственных рук.
+
+  constructions:
+    - veljano: "Ï'llwïjü"
+      russian: "я бы хотел"
+    - veljano: "Ï lajdwïs"
+      russian: "я хочу (прямо сейчас)"
+    - veljano: "Ï najdwï"
+      russian: "я хочу (вообще)"
+    - veljano: "Adiülecwo am … ans …"
+      russian: "переводить на … с …"
+
+{
+  "text_2": {
+    "id": "maliwa_matyna",
+    "veljano_title": "Lïi maliwa matyna",
+    "english_title": "A Small Morning",
+    "veljano_text": "Anna gëauzonwe së a zejsö. Ïn zïmö ŝyi. Ŝï ajmajdwe gëstojwe, abön ŝï musswe gwo zum arbajtö. Ŝï ĉajwe baj jesswe së brodwo kèjzot. Sïma kajtïica zejswe en lïi stujlö baj żenojwe ŝwï. «Tü gëluïmwuzë \"tajmwe Anna loij kajtïicar\" tü ajnpälwu nöd dè arbajtwo». Kajtïica ajnretajnwe. Ŝï naet gëojwe s'auz. Anna gëpalitove së baj gëbwo lïi bejkwo. Ŝï dürwe nai. Drausp halidwa baj grejwa. Ŝï ahwe baj gwe zum lä busŝtojpö. Bïsswemwa ŝï ojwe adiü bussojö. Lojt gwes, on äwlojantwezë baj ŝtajdo gëauzojnwezë. «Djanke luïnwajü tunô» djankwe ŝï.",
+    "english_text": "Anna wakes up at six. The room is quiet. She does not want to get up, but she has to go to work. She makes tea and eats bread with cheese. Her cat sits on the chair and watches her. \"You are lucky,\" Anna says to the cat. \"You do not have to work.\" The cat does not answer. It just closes its eyes. Anna puts on her coat and takes her bag. She opens the door. Outside, it is cold and gray. She sighs and walks to the bus stop. On the bus, she looks out of the window. People are walking, cars are moving, and the city is waking up. \"Maybe today will be a good day,\" she thinks.",
+    "grammar_examples": [
+      {"veljano": "Ï adiüżenwï", "russian": "Я перехожу дорогу"},
+      {"veljano": "Ï adiüżemwïs", "russian": "Я перешёл дорогу"},
+      {"veljano": "Ï vïzzwïns ajnhörläplyklantwï", "russian": "Я увидел глухонемого"},
+      {"veljano": "ajnhörläplyklanto", "russian": "Глухонемой"},
+      {"veljano": "Ï zejswï ön stujlö", "russian": "Я сижу на стуле"},
+      {"veljano": "Ï gë zejswï öm stujlöj", "russian": "Я сажусь на стул"},
+      {"veljano": "Tü vïzzwu stujlïnwï", "russian": "Ты видишь стул"},
+      {"veljano": "Ï adiüżemwïs da", "russian": "Я перешёл дорогу (давно)"},
+      {"veljano": "Kjanwu tü veljanwïl?", "russian": "Ты умеешь говорить по-вэльянски?"},
+      {"veljano": "adiüżenwo", "russian": "Переходить дорогу"},
+      {"veljano": "Ejz'll lui vïzzoppa", "russian": "Рад встрече (дословно: это хорошая встреча)"},
+      {"veljano": "Ï twon da cum magazöj", "russian": "Я шёл в магазин (давно)"},
+      {"veljano": "Ejs'll ejz län?", "russian": "Что это такое?"},
+      {"veljano": "Ja, ejz luiïnwajü", "russian": "Да, это будет хорошо"},
+      {"veljano": "Ejs'lljü län?", "russian": "Что это будет?"},
+      {"veljano": "Ï gertwï je m", "russian": "Я наверное сейчас поворачиваю"},
+      {"veljano": "Ïj by kjam", "russian": "Я бы мог"},
+      {"veljano": "Ï'llwï ïn cugö", "russian": "Я в поезде"},
+      {"veljano": "föŝtejwu, ïj lecwïns ejt tejxtwo, ejswo hajdet adiülecwo", "russian": "Понимаешь, я написал такой текст, что трудно его перевести"},
+      {"veljano": "dürwe së nai ïrïm tüj", "russian": "Дверь открывается на себя"},
+      {"veljano": "dürwe së nai ïrïs tüj", "russian": "Дверь открывается от себя"},
+      {"veljano": "wajüm töjnmïdiüvïzzwöjzwï", "russian": "Потому что ты не следил за этим"},
+      {"veljano": "na praplyklantoppa", "russian": "По правде говоря"},
+      {"veljano": "a pravï", "russian": "По правде"},
+      {"veljano": "Ï'llwïjü veljanwïl", "russian": "Я хочу говорить по-вэльянски"},
+      {"veljano": "djevlïhi on jod", "russian": "20:08"},
+      {"veljano": "zïivzs o fjati", "russian": "07:05"},
+      {"veljano": "Ïj dürwïns auz", "russian": "Я закрыл дверь на замок"},
+      {"veljano": "Na so, mït vordtod", "russian": "Да так, к слову"},
+      {"veljano": "Ïj kojlïnwï lejcwo kojlencot", "russian": "Я обвожу чертёж циркулем"},
+      {"veljano": "Ï vajzwï vordïlwï", "russian": "Я знаю словарь (совр.)"},
+      {"veljano": "Ï vajzwï vordátwï", "russian": "Я знаю словарь (устар.)"},
+      {"veljano": "djomönwï", "russian": "Я в доме"},
+      {"veljano": "Ejswo kjanwï helfïnwol?", "russian": "Чем я могу помочь?"},
+      {"veljano": "Ejs? Kjanwu tü veljanwïl pravï grammatïket?", "russian": "Ты умеешь говорить по-вэльянски с правильной грамматикой?"},
+      {"veljano": "kjanwï veljanwïl lälät", "russian": "Я умею говорить по-вэльянски немного"},
+      {"veljano": "Najwuj?", "russian": "Ну и где?"},
+      {"veljano": "Adiülec am russöj", "russian": "Переведи на русский"},
+      {"veljano": "Ejs kjanwï dajwol für Vür?", "russian": "Что могу сделать для вас?"},
+      {"veljano": "Ï vajzwï gramatïkwï", "russian": "Я знаю грамматику"},
+      {"veljano": "Ï'llwïjü veljanwïl mït tüd", "russian": "Я бы хотел говорить на вэльянском с тобой"},
+      {"veljano": "Kjanwu nuj veljanwïl?", "russian": "Умеешь ли ты говорить только на вэльянском?"},
+      {"veljano": "tü mwa dü žyhavïnwo", "russian": "Ты можешь пылесос"},
+      {"veljano": "lojet äwlojèntwet së", "russian": "Люди едут на машинах"},
+      {"veljano": "Ïj lëmwï ejzwo", "russian": "я черчу (линейкой) это"}
+    ],
+    "poetry_fragment": {
+      "veljano": "Havo an trasö vahwe së haswa ykt — Пыль на дороге пахла нагретым камнем. Havo an trasö ja gëhasswans aus. Čïiu gëhörwens aus. Hï ïnstwens djomöj's baj gëojwens önvahwï. Vaho wïlln oet, ejt ermot de hanï. Daždi ajngëjavïnwejü. Baj jen hï gëvföštejwens, ejs lä vaho vahwezë awajswa jügjolit, abön ejz'lln vahwoppa de hïm ermot",
+      "russian": "Пыль на дороге уже остыла. Птица замолкла. Он вышел из дома и посмотрел на небо. Небо было пустым, как его руки. Дождь не вернётся. И тогда он понял, что воздух пахнет мокрой землёй, но это был запах его собственных рук."
+    },
+    "constructions": [
+      {"veljano": "Ï'llwïjü", "russian": "я бы хотел"},
+      {"veljano": "Ï lajdwïs", "russian": "я хочу (прямо сейчас)"},
+      {"veljano": "Ï najdwï", "russian": "я хочу (вообще)"},
+      {"veljano": "Adiülecwo am … ans …", "russian": "переводить на … с …"}
+    ]
+  }
+}
+text_3:
+  id: "tuno_stjudenta"
+  veljano_title: "Lä tunô dè zïi stjudenta"
+  english_title: "A Day in the Life of a Student"
+
+  veljano: |
+    Mark gëauzonwezë a zïivzs jèrhöt. Hï ajmajdwes gëstojwol së. Hïm bajto warmwa abön cyjmo halidwa. 
+    Hï zejwe a tëlïfonö. Län lecwe së 7:05. Hï ahwes baj zejswezë. Hï gwe zum vannöj. 
+    Hï mülwezë baj wajswe lïikwo. Hï ojwes mojwï baj djankwe: «Ïjm nöd wïll gëluihairwol».
+    Hï gwes zum kuhcymöj, hïm mamma'ns wïll län. Ŝï gëkoffïnwes. 
+    Ŝï tajnwe: «Bon matyna, Mark. Sonwu tü lui?» Hï tajnwe: «ajnöä-lui Ïj lïgwïns zer ŝpatet».
+    Hï matyjesswezë. Hï mälwes brodwo battonod baj kèjzod. Hï kofïnwes. 
+    Mamma kwastwes: «èjs tüm ŝujlo najtumô pällwe?»
+    Hï tajnwe: «Matëmatïkïijca, hïstorïica, baj ïnglïŝïica. Ajnkajmanwa».
+    Hï gëjodwezë. Hï shörtwe së karulïnas baj blekas dżynswe së. Hï ïblèjğwezë rükzakot. 
+    Hï ajwes mït mammäd baj auzdjomwes.
+    Drauset rejnwe. Markö ajne zonto. Hï gëkapüŝönwes baj gwe fjast. Drauso halidwa baj grèjwa. 
+    On äwlojntwezë mïlet. Lojt gwe zontwenwa. Hï gwe ïr zum bussŝtopöj. 
+    Län wïll fjati lojt. Auswïllwa jèla dajwezë lïtwa jündwo. Jaltïino hörwe müzïikwo. 
+    Mark gestojwes für bussor.
+    Gëbusswezë a 7:40. Hï moirwa dè lojt. Mark stojwe u dürö. Hï dajwezë tïkwo. 
+    Busso lälät gwes ïn moirlojèntön. Ïn ŝujlö Mark gwe a adjamwa mmmö. Èjz'll matëmetïkïijca. 
+    Palüläto lecwes cijütot en lä deskö. Mark ajnvföŝtejwe. 
+    Hï kwastwes amïkot: «vföŝtejwöjz tü?» Amïko tajnwe: «najn, alliwa najn».
+    Djevïnwa nïico'll hïstorïica. Palüläto zagwe o Alidwa Rïma. Mark lajdwe hïstorwï. 
+    Hï zamltkwes en kulïibrö. Hï kulliwe troja tejxtokwo.
+    A abedö Mark zejswes mït amïciïd. Zïi jesswezë önbrüdwot baj tajnwez o fusbali. 
+    Hïm amïko Alëx tajnwes: «Tü vïzzwuns jügtunwa kjonwï?» Mark tajnwe: «nejn, Ïj lejnwïn së». 
+    Alëx tajmwe: «tü adiüstojwun lui plejö».
+    Ön abëdö Mark päll Ïnglïŝïica. Palüläto pratajn für hï lïbrïnwe tejxtwï. 
+    Hï lïbrïnwe lälät baj we djev fjatwo. Palüläto zag: «Najleco, Mark. Prajyl».
+    A troja jarhe lïi ŝujla auswe së. Mark gwes djomöj'm. Dażdiwens auz. Gëaussolwe. 
+    Hï gëmödwa abön radwa.
+    Djomö hï Adiüämwe. Hï ĉajwes baj jesswezë tretot. Mamma kwastwes: «Èjs beljanto a ŝujlö?» 
+    Hï anszag: «Normali. Ïj gëmödwns».
+    Hï gwes zum sëm zymö. Hï djomarbajtwes. Hï soĉïnënwe o Rïma. Èjz'll we së adjam jarhe. 
+    Hï ojprave tëlïfojnwo. Hï päll troja ŝajwo ans Alëx.
+    Hï anszag für amŝajor. Jafte hï lïgs ön bajtö. Hï djank o tuna. 
+    Hï djankwe o tejsta für matëmatïkër lec zïivzstagö. Hï lälät änfjatwe.
+    Marhen hï marjesswe mït sëmïad. Ämwez züipwo baj brodwo. Alve tajn o sëm arbajta. 
+    Mamma tajn o gjarda. Mark hör baj äm.
+    Ön marhjesso hï zejwe fïlimwï mït sïstad. Èjz'lkjomedïi. Zïi hahwe moi. 
+    Sïsta tajn: «Èjz'll bon fïlim». Hï tajn: «Je, ï lajdwï au».
+    A vfön jarhe hï gësonwes. Hï rïdwe lïbrïnwï djevlïhi majnut. Jafte hï mïlwes hei. 
+    Hï ausojwes. Hï djankwe: «Ömajtun luïmwajur»
+
+  english: |
+    Mark wakes up at seven o'clock. He does not want to get up. His bed is warm, but the room is cold. 
+    He looks at his phone. It says 7:05. He sighs and sits up.
+    He goes to the bathroom. He washes his face and brushes his teeth. The water is cold. 
+    He looks in the mirror and thinks, "I need a haircut."
+    He goes to the kitchen. His mother is already there. She is making coffee. 
+    She says, "Good morning, Mark. Did you sleep well?" He says, "Not really. I went to bed too late."
+    He eats breakfast. He has bread with butter and cheese. He drinks a cup of coffee. 
+    His mother asks, "What do you have at school today?" He says, "Math, history, and English. Nothing special."
+    He puts on his clothes. He wears a blue shirt and black jeans. He takes his backpack. 
+    He says goodbye to his mother and leaves the house.
+    Outside, it is raining. Mark does not have an umbrella. He puts his hood on and walks quickly. 
+    The street is wet and gray. Cars are driving slowly. People are walking with umbrellas.
+    He arrives at the bus stop. There are five other people there. An old woman is holding a small dog. 
+    A young man is listening to music. Mark waits for the bus.
+    The bus comes at 7:40. It is full of people. Mark stands near the door. He holds the handrail. 
+    The bus moves slowly through the traffic.
+    At school, Mark goes to his first class. It is math. The teacher writes numbers on the board. 
+    Mark does not understand. He asks his friend, "Do you understand this?" His friend says, "No, not at all."
+    The second class is history. The teacher talks about ancient Rome. Mark likes history. 
+    He takes notes in his notebook. He writes three pages.
+    At lunch, Mark sits with his friends. They eat sandwiches and talk about football. 
+    His friend Alex says, "Did you see the game last night?" Mark says, "No, I was studying." 
+    Alex says, "You missed a great game."
+    After lunch, Mark has English class. The teacher asks him to read a text. 
+    He reads slowly and makes two mistakes. The teacher says, "Good job, Mark. Keep practicing."
+    At three o'clock, school ends. Mark walks home. The rain has stopped. The sun is coming out. 
+    He feels tired but happy.
+    At home, he eats a snack. He drinks tea and eats a cookie. His mother asks, "How was school?" 
+    He says, "It was okay. I am tired."
+    He goes to his room. He does his homework. He writes a short essay about Rome. 
+    It takes him one hour. He checks his phone. He has three messages from Alex.
+    He answers the messages. Then he lies on his bed. He thinks about the day. 
+    He thinks about the math test next week. He feels a little worried.
+    In the evening, he eats dinner with his family. They have soup and bread. 
+    His father talks about his work. His mother talks about the garden. Mark listens and eats.
+    After dinner, he watches a movie with his sister. It is a comedy. They laugh a lot. 
+    His sister says, "This is a good movie." He says, "Yes, I like it too."
+    At ten o'clock, he goes to bed. He reads a book for twenty minutes. Then he turns off the light. 
+    He closes his eyes. He thinks, "Tomorrow will be a better day."
+{
+  "text_3": {
+    "id": "tuno_stjudenta",
+    "veljano_title": "Lä tunô dè zïi stjudenta",
+    "english_title": "A Day in the Life of a Student",
+    "veljano_text": "Mark gëauzonwezë a zïivzs jèrhöt. Hï ajmajdwes gëstojwol së. Hïm bajto warmwa abön cyjmo halidwa. Hï zejwe a tëlïfonö. Län lecwe së 7:05. Hï ahwes baj zejswezë. Hï gwe zum vannöj. Hï mülwezë baj wajswe lïikwo. Hï ojwes mojwï baj djankwe: «Ïjm nöd wïll gëluihairwol». Hï gwes zum kuhcymöj, hïm mamma'ns wïll län. Ŝï gëkoffïnwes. Ŝï tajnwe: «Bon matyna, Mark. Sonwu tü lui?» Hï tajnwe: «ajnöä-lui Ïj lïgwïns zer ŝpatet». Hï matyjesswezë. Hï mälwes brodwo battonod baj kèjzod. Hï kofïnwes. Mamma kwastwes: «èjs tüm ŝujlo najtumô pällwe?» Hï tajnwe: «Matëmatïkïijca, hïstorïica, baj ïnglïŝïica. Ajnkajmanwa». Hï gëjodwezë. Hï shörtwe së karulïnas baj blekas dżynswe së. Hï ïblèjğwezë rükzakot. Hï ajwes mït mammäd baj auzdjomwes. Drauset rejnwe. Markö ajne zonto. Hï gëkapüŝönwes baj gwe fjast. Drauso halidwa baj grèjwa. On äwlojntwezë mïlet. Lojt gwe zontwenwa. Hï gwe ïr zum bussŝtopöj. Län wïll fjati lojt. Auswïllwa jèla dajwezë lïtwa jündwo. Jaltïino hörwe müzïikwo. Mark gestojwes für bussor. Gëbusswezë a 7:40. Hï moirwa dè lojt. Mark stojwe u dürö. Hï dajwezë tïkwo. Busso lälät gwes ïn moirlojèntön. Ïn ŝujlö Mark gwe a adjamwa mmmö. Èjz'll matëmetïkïijca. Palüläto lecwes cijütot en lä deskö. Mark ajnvföŝtejwe. Hï kwastwes amïkot: «vföŝtejwöjz tü?» Amïko tajnwe: «najn, alliwa najn». Djevïnwa nïico'll hïstorïica. Palüläto zagwe o Alidwa Rïma. Mark lajdwe hïstorwï. Hï zamltkwes en kulïibrö. Hï kulliwe troja tejxtokwo. A abedö Mark zejswes mït amïciïd. Zïi jesswezë önbrüdwot baj tajnwez o fusbali. Hïm amïko Alëx tajnwes: «Tü vïzzwuns jügtunwa kjonwï?» Mark tajnwe: «nejn, Ïj lejnwïn së». Alëx tajmwe: «tü adiüstojwun lui plejö». Ön abëdö Mark päll Ïnglïŝïica. Palüläto pratajn für hï lïbrïnwe tejxtwï. Hï lïbrïnwe lälät baj we djev fjatwo. Palüläto zag: «Najleco, Mark. Prajyl». A troja jarhe lïi ŝujla auswe së. Mark gwes djomöj'm. Dażdiwens auz. Gëaussolwe. Hï gëmödwa abön radwa. Djomö hï Adiüämwe. Hï ĉajwes baj jesswezë tretot. Mamma kwastwes: «Èjs beljanto a ŝujlö?» Hï anszag: «Normali. Ïj gëmödwns». Hï gwes zum sëm zymö. Hï djomarbajtwes. Hï soĉïnënwe o Rïma. Èjz'll we së adjam jarhe. Hï ojprave tëlïfojnwo. Hï päll troja ŝajwo ans Alëx. Hï anszag für amŝajor. Jafte hï lïgs ön bajtö. Hï djank o tuna. Hï djankwe o tejsta für matëmatïkër lec zïivzstagö. Hï lälät änfjatwe. Marhen hï marjesswe mït sëmïad. Ämwez züipwo baj brodwo. Alve tajn o sëm arbajta. Mamma tajn o gjarda. Mark hör baj äm. Ön marhjesso hï zejwe fïlimwï mït sïstad. Èjz'lkjomedïi. Zïi hahwe moi. Sïsta tajn: «Èjz'll bon fïlim». Hï tajn: «Je, ï lajdwï au». A vfön jarhe hï gësonwes. Hï rïdwe lïbrïnwï djevlïhi majnut. Jafte hï mïlwes hei. Hï ausojwes. Hï djankwe: «Ömajtun luïmwajur»",
+    "english_text": "Mark wakes up at seven o'clock. He does not want to get up. His bed is warm, but the room is cold. He looks at his phone. It says 7:05. He sighs and sits up. He goes to the bathroom. He washes his face and brushes his teeth. The water is cold. He looks in the mirror and thinks, \"I need a haircut.\" He goes to the kitchen. His mother is already there. She is making coffee. She says, \"Good morning, Mark. Did you sleep well?\" He says, \"Not really. I went to bed too late.\" He eats breakfast. He has bread with butter and cheese. He drinks a cup of coffee. His mother asks, \"What do you have at school today?\" He says, \"Math, history, and English. Nothing special.\" He puts on his clothes. He wears a blue shirt and black jeans. He takes his backpack. He says goodbye to his mother and leaves the house. Outside, it is raining. Mark does not have an umbrella. He puts his hood on and walks quickly. The street is wet and gray. Cars are driving slowly. People are walking with umbrellas. He arrives at the bus stop. There are five other people there. An old woman is holding a small dog. A young man is listening to music. Mark waits for the bus. The bus comes at 7:40. It is full of people. Mark stands near the door. He holds the handrail. The bus moves slowly through the traffic. At school, Mark goes to his first class. It is math. The teacher writes numbers on the board. Mark does not understand. He asks his friend, \"Do you understand this?\" His friend says, \"No, not at all.\" The second class is history. The teacher talks about ancient Rome. Mark likes history. He takes notes in his notebook. He writes three pages. At lunch, Mark sits with his friends. They eat sandwiches and talk about football. His friend Alex says, \"Did you see the game last night?\" Mark says, \"No, I was studying.\" Alex says, \"You missed a great game.\" After lunch, Mark has English class. The teacher asks him to read a text. He reads slowly and makes two mistakes. The teacher says, \"Good job, Mark. Keep practicing.\" At three o'clock, school ends. Mark walks home. The rain has stopped. The sun is coming out. He feels tired but happy. At home, he eats a snack. He drinks tea and eats a cookie. His mother asks, \"How was school?\" He says, \"It was okay. I am tired.\" He goes to his room. He does his homework. He writes a short essay about Rome. It takes him one hour. He checks his phone. He has three messages from Alex. He answers the messages. Then he lies on his bed. He thinks about the day. He thinks about the math test next week. He feels a little worried. In the evening, he eats dinner with his family. They have soup and bread. His father talks about his work. His mother talks about the garden. Mark listens and eats. After dinner, he watches a movie with his sister. It is a comedy. They laugh a lot. His sister says, \"This is a good movie.\" He says, \"Yes, I like it too.\" At ten o'clock, he goes to bed. He reads a book for twenty minutes. Then he turns off the light. He closes his eyes. He thinks, \"Tomorrow will be a better day.\""
+  }
+}
+
